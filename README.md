@@ -156,4 +156,4 @@ lat2/
 
 ## 📄 Lisensi
 
-© 2026 Jabes. All rights reserved.
+© 2021 Jabes. All rights reserved.
