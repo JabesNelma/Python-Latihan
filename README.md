@@ -98,8 +98,8 @@ Repositori ini adalah kumpulan program latihan Python yang dirancang untuk mempe
 
 ```bash
 # Clone repositori
-git clone <url-repositori>
-cd lat2
+git clone https://github.com/JabesNelma/Python-Latihan.git
+cd Python-Latihan/lat2
 
 # Jalankan program yang diinginkan
 python3 nama_file.py
